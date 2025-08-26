@@ -15,6 +15,9 @@ sitemap:
 
 ## Project Samples
 
+#### Web development
+- <a href="https://pine.do/odin-recipes/" target="_blank" rel="noopener noreferrer">CSS/HTML/JS Project - Webpage</a>
+
 #### Corporate Finance
 - <a href="https://pine.do/portfolio/CorpFin%20-%20LUV%20valuation%20-%20presentation.pdf" target="_blank" rel="noopener noreferrer">MBA Final Project (Valuation) - Presentation</a>
 - <a href="https://pine.do/portfolio/CorpFin%20-%20LUV%20valuation%20-%20white%20paper.pdf" target="_blank" rel="noopener noreferrer">MBA Final Project (Valuation) - White Paper</a>
