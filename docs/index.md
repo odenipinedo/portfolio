@@ -17,6 +17,7 @@ sitemap:
 
 #### Web development
 - <a href="https://pine.do/odin-recipes/" target="_blank" rel="noopener noreferrer">CSS/HTML/JS Project - Webpage</a>
+- <a href="https://github.com/odenipinedo/javascript-exercises/" target="_blank" rel="noopener noreferrer">JavaScript Exercises - GitHub Fork from The Odin Project</a>
 
 #### Corporate Finance
 - <a href="https://pine.do/portfolio/CorpFin%20-%20LUV%20valuation%20-%20presentation.pdf" target="_blank" rel="noopener noreferrer">MBA Final Project (Valuation) - Presentation</a>
